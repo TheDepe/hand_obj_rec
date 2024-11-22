@@ -1,0 +1,5 @@
+directory,set
+/home/perrettde/Documents/thesis/DATA/mirage_renders/new_renderings/9b5e18b3fdba4ed096e85626084ce12e/large/moles_white4_13_1,train
+/home/perrettde/Documents/thesis/DATA/mirage_renders/new_renderings/001ff3d8b3064bf38eaa5a806873de81/medium/scar_white1_14_mano_1,train
+/home/perrettde/Documents/thesis/DATA/mirage_renders/new_renderings/cadb10cf352943759eee41e0ed91cb68/large/moles_yellow3_3_mano_1,train
+/home/perrettde/Documents/thesis/DATA/mirage_renders/new_renderings/8aa4e7f74e95467b82adecd30e1a8403/small/tattoo_white3_1_mano_1,test

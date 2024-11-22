@@ -1,0 +1,5 @@
+# Ignore all Jupyter Notebook files
+*.ipynb
+
+# Optional: Ignore Jupyter checkpoints (auto-saved notebook backups)
+.ipynb_checkpoints/
